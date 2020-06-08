@@ -5,4 +5,6 @@ The exploring geo_coded files uses the first_and_subsequent files from https://d
 
 The EPO_treatment_data.csv is used in the merging exact location data and EPO.ipynb file.
 
-The merging excat location data and EPO.ipynb is used to merge the location data, through the first and subsequent file, to the treatment data. The first half can be ignored by explains the way in which EPO_treatment_data.csv is reached at. The second half deals with the merging.  
+The merging exact location data and EPO.ipynb is used to merge the location data, through the first and subsequent file, to the treatment data. The first half can be ignored by explains the way in which EPO_treatment_data.csv is reached at. The second half deals with the merging.  
+
+Merging exact location data and PCT.ipynb performs a similar function, but stops after merging with the first and subsequent file due to the loss of data.
