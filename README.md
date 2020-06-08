@@ -1,7 +1,9 @@
 # Patent_location_data
 A repository for code that merges patents/citations/controls with location data
 
-The exploring geo_coded files uses the first_and_subsequent files from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QLT9WM to creat the files used in merging exact location data and EPO.ipynb.
+The exploring geo_coded files.ipynb uses the first_and_subsequent files from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QLT9WM to create the files used in merging exact location data.ipynb files.
+
+The geoc_inv data comes from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OTTBDX as used in both merging files. 
 
 The EPO_treatment_data.csv is used in the merging exact location data and EPO.ipynb file.
 
